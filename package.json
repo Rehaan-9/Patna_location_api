@@ -1,0 +1,14 @@
+{
+  "name": "patna_loc",
+  "version": "1.0.0",
+  "description": "Location_Api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch Patna_Location.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
